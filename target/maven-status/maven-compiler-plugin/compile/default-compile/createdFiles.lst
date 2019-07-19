@@ -1,0 +1,8 @@
+br\com\firstdatacorp\apipagamentos\vo\ApiPagamentosVO.class
+br\com\firstdatacorp\apipagamentos\exception\BusinessException.class
+br\com\firstdatacorp\apipagamentos\model\ApiPagamentos.class
+br\com\firstdatacorp\apipagamentos\resource\ApiPagamentosResource.class
+br\com\firstdatacorp\apipagamentos\service\ApiPagamentosService.class
+br\com\firstdatacorp\apipagamentos\SwaggerConfig.class
+br\com\firstdatacorp\apipagamentos\ServletInitializer.class
+br\com\firstdatacorp\apipagamentos\ApiPagamentosApplication.class

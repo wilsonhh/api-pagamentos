@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: api-pagamentos
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: F40GHN5
+Implementation-Vendor-Id: br.com.firstdatacorp
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/api-pagament
+ os/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

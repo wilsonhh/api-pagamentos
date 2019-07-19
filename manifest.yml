@@ -1,0 +1,7 @@
+applications:
+- name: pagamentos
+  path: target/pagamentos.war
+  memory: 768M
+  instances: 1
+  random-route: true
+
